@@ -1,0 +1,13 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "description": "Desafio 1 da Maratona Full Cycle",
+  "author": "Oliveira, Jose Ivan R. <ivan_r.o@hotmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
